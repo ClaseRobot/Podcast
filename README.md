@@ -4,7 +4,7 @@ App de Podcasts integrada con la API de AudioBoom con tecnología Next.JS.
 
 Deploy: Now.
 
-![Link a la App](https://podcast-ik4etfbqa.now.sh/)
+[Link a la App](https://podcast-ik4etfbqa.now.sh/)
 
 ![Captura de la App](./.readme-static/print.png)
 
